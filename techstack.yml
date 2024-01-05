@@ -1,7 +1,8 @@
 repo_name: TeshShin/UE5-GetupControl
 report_id: 9da1f9839108a89364c1d954d3ef9233
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:50:04+00:00'
+timestamp: '2024-01-05T08:29:35+00:00'
 requested_by: TeshShin
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -45,6 +49,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -69,6 +75,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -81,6 +88,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -93,6 +101,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20258/default_c011fd31f7e9af58e2e3e8a82a6acdf8662ecdb6.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -105,6 +114,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
@@ -118,7 +128,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
-  detection_source_url: github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
   detection_source: get_up_control-main/requirements.txt
   last_updated_by: Tesh
   last_updated_on: 2023-06-24 17:35:03.000000000 Z
