@@ -7,6 +7,15 @@ SAC 강화학습 알고리즘, Strong to Weak 방법으로 기립 애니메이�
 ## 참고 논문
 Tao, T., Wilson, M., Gou, R., & van de Panne, M. (2022, August 7). Learning to Get Up. Special Interest Group on Computer Graphics and Interactive Techniques Conference Proceedings. ACM.
 
+---
+
+### [소개영상](https://youtu.be/LTb6Gi-Ucxc)
+### Built with
+- Unreal Engine **(5.1.1)** with TCP plugin
+- Python **(3.8.16)**
+- more in requirement.txt
+---
+
 ## 동기
 현재 게임 속 캐릭터의 기립 모션이 부자연스러운 경우가 많다. 누워있는 모습의 형태는 다양하지만, 모든 초기 상태에 대해서 애니메이션을 제작할 수 없기 때문이다. 강화학습으로 어떤 초기 상태에서라도 물리적으로 알맞게 일어날 수 있는 액터를 학습할 수 있다면 다양한 초기 상태에 대해서 애니메이션을 제작할 수 있을 것이다.
 
@@ -35,15 +44,8 @@ Tao, T., Wilson, M., Gou, R., & van de Panne, M. (2022, August 7). Learning to G
 1. SAC에 따라서 힘의 크기를 조절하는 power를 우리에 코드에 알맞게 변형하여 적용하였다.
    - 기존 코드에서 env.py와의 연결과 mujoco 환경과의 연결을 끊고 그 부분을 언리얼과의 연결로 바꾸었다.
 2. 언리얼과의 TCP통신을 통해 action, state, reward를 주고 받는다.
-##
-### [소개영상](https://youtu.be/LTb6Gi-Ucxc)
-##
-### [언리얼프로젝트 다운받기](https://drive.google.com/file/d/1GaunUPkVFNOqFSoIIizr1BrxmcxNxFBB/view?usp=sharing)
-##
-### 프로젝트 버전
-Unreal Engine 5.1.1 with TCP plugin
 
-Python 3.8.16
+
 ## 사용법
 1. 언리얼 프로젝트를 열고 test맵을 연다. 
 2. 60프레임을 넘기지 못하게 하도록 60프레임 고정을 해줘야한다.
