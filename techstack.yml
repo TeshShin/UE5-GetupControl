@@ -1,0 +1,134 @@
+repo_name: TeshShin/UE5-GetupControl
+report_id: 9da1f9839108a89364c1d954d3ef9233
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:57:45+00:00'
+requested_by: TeshShin
+provider: github
+branch: main
+detected_tools_count: 10
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: imageio
+  description: Library for reading and writing a wide range of image
+  package_url: https://pypi.org/project/imageio
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20258/default_c011fd31f7e9af58e2e3e8a82a6acdf8662ecdb6.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: opencv-python
+  description: Wrapper package for OpenCV python bindings
+  package_url: https://pypi.org/project/opencv-python
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
+- name: torchvision
+  description: Image and video datasets and models for torch deep learning
+  package_url: https://pypi.org/project/torchvision
+  version: 0.6.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/TeshShin/UE5-GetupControl/blob/main/get_up_control-main/requirements.txt
+  detection_source: get_up_control-main/requirements.txt
+  last_updated_by: Tesh
+  last_updated_on: 2023-06-24 17:35:03.000000000 Z
